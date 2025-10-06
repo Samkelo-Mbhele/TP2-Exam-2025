@@ -10,7 +10,7 @@
 - **Notebook:** [`TP2Exam.ipynb`](TP2Exam.ipynb)](https://colab.research.google.com/drive/1FgiRwF3dCf6hgVy6i_FFtkIqAFo5QDyJ?usp=sharing) – full analysis, EDA, hotspot classification, and Prophet forecasting.  
 - **Dashboard:** [`app.py`](in App folder) – interactive Streamlit app with filters, plots, classification results, and forecasts.  
 - **Drone Simulation:** [`DroneSimulation.docx`]docx) – documents 3D grid, hotspot waypoints, path planning, and flying methods.  
-- **Datasets:** crime and WDI CSVs included.  
+- **Datasets:** crime: (https://www.kaggle.com/datasets/shamimhasan8/crime-and-safety-dataset) and WDI: (https://www.kaggle.com/datasets/kaggle/world-development-indicators)   
 
 ## Run Dashboard
 ```bash
